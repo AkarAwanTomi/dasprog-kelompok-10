@@ -20,9 +20,9 @@ Fitur Kalkulator :
 
 FUNGSI YANG DIGUNAKAN :
 1. Fungsi Utama
-•	main() : Ini adalah fungsi utama dan titik masuk (entry point) dari eksekusi program C. Fungsi ini menjalankan loop utama program dan memanggil fungsi-fungsi lain berdasarkan pilihan pengguna .
+  1. main() : Ini adalah fungsi utama dan titik masuk (entry point) dari eksekusi program C. Fungsi ini menjalankan loop utama program dan memanggil fungsi-fungsi lain berdasarkan pilihan pengguna .
 2. Fungsi untuk mencetak menu kalkulator
-•	layout() : Fungsi ini bertanggung jawab untuk menampilkan menu utama kalkulator kepada pengguna, termasuk opsi untuk kalkulator Hukum Ohm, Daya Listrik, Resistor Seri/Paralel, konversi basis bilangan, dan keluar. 
+  2.	layout() : Fungsi ini bertanggung jawab untuk menampilkan menu utama kalkulator kepada pengguna, termasuk opsi untuk kalkulator Hukum Ohm, Daya Listrik, Resistor Seri/Paralel, konversi basis bilangan, dan keluar. 
 3. Fungsi Kalkulator Rangkaian Listrik (Verifikasi Rangkaian Elektrik)
 •	kalkulatorhukumohm() : Fungsi ini menghitung salah satu dari Tegangan (V), Arus (I), atau Resistor (R) berdasarkan Hukum Ohm (V = I \ R) sesuai pilihan pengguna .
 o	Menghitung V: Meminta Arus dan Resistor.
@@ -41,5 +41,6 @@ o	Menghitung R: Meminta Tegangan dan Arus.
 •	konversibinerkedesimal() : Mengonversi bilangan Biner ke bilangan Desimal tanpa menggunakan pangkat. Sebagai alternatif, kami menggunakan kelipatan 2 pada “i” dan khusus looping pertama, i sudah terdeklarasi 1.
 •	konversioktalkedesimal() : Fungsi ini dimaksudkan untuk mengonversi bilangan Oktal ke bilangan Desimal dengan memanfaatkan %o.
 •	konversiheksakedesimal() : Mengonversi bilangan Heksadesimal ke bilangan Desimal dengan memanfaatkan %s.
+
 
 
