@@ -1,17 +1,17 @@
 KELOMPOK 10  DASPROG
 
 Nama anggota :
--Akar Adamanta Motik (5048251037)
--Keefe Wiryawan Salim (5048251067)
--M. Tommy Lutfan (5048251077)
+1. Akar Adamanta Motik (5048251037)
+2. Keefe Wiryawan Salim (5048251067)
+3. M. Tommy Lutfan (5048251077)
 
 Asal Institusi :
 Institut Teknologi Sepuluh Nopember Surabaya, Program Studi Teknik Telekomunikasi.
 
 PEMBAGIAN TUGAS : 
--AKAR : Konversi desimal ke biner, oktal, heksadesimal, dan sebaliknya.
--AWAN : Verifikasi rangkaian elektrik (V/I/R/P).
--TOMMY : Verifikasi rangkaian elektrik (jumlah resistor seri dan paralel).
+1. AKAR : Konversi desimal ke biner, oktal, heksadesimal, dan sebaliknya.
+2. AWAN : Verifikasi rangkaian elektrik (V/I/R/P).
+3. TOMMY : Verifikasi rangkaian elektrik (jumlah resistor seri dan paralel).
 
 Fitur Kalkulator :
 1. Menghitung besarnya tegangan, arus, resistor, dan daya listrik.
@@ -41,4 +41,5 @@ o	Menghitung R: Meminta Tegangan dan Arus.
 •	konversibinerkedesimal() : Mengonversi bilangan Biner ke bilangan Desimal tanpa menggunakan pangkat. Sebagai alternatif, kami menggunakan kelipatan 2 pada “i” dan khusus looping pertama, i sudah terdeklarasi 1.
 •	konversioktalkedesimal() : Fungsi ini dimaksudkan untuk mengonversi bilangan Oktal ke bilangan Desimal dengan memanfaatkan %o.
 •	konversiheksakedesimal() : Mengonversi bilangan Heksadesimal ke bilangan Desimal dengan memanfaatkan %s.
+
 
