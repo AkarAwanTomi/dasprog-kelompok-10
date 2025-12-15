@@ -41,3 +41,4 @@ o	Menghitung R: Meminta Tegangan dan Arus.
 •	konversibinerkedesimal() : Mengonversi bilangan Biner ke bilangan Desimal tanpa menggunakan pangkat. Sebagai alternatif, kami menggunakan kelipatan 2 pada “i” dan khusus looping pertama, i sudah terdeklarasi 1.
 •	konversioktalkedesimal() : Fungsi ini dimaksudkan untuk mengonversi bilangan Oktal ke bilangan Desimal dengan memanfaatkan %o.
 •	konversiheksakedesimal() : Mengonversi bilangan Heksadesimal ke bilangan Desimal dengan memanfaatkan %s.
+
